@@ -1,0 +1,12 @@
+.carousel-item {
+    height: 20rem;
+    filter: grayscale(30%);
+}
+
+.carousel-caption {
+	background-color: rgba(0, 0, 0, 0.5);
+    bottom: 100px;
+
+}
+
+
